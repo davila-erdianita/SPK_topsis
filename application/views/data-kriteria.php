@@ -17,7 +17,7 @@
 	                        </div>
                        	<?php }?> 
     			<!-- 	</div>	 -->
-    				<a href="<?php echo base_url()."insert-form-kriteria"?>" class="btn btn-sm btn-outline-info">tambah data</a>
+    				<!-- <a href="<?php echo base_url()."insert-form-kriteria"?>" class="btn btn-sm btn-outline-info">tambah data</a> -->
 					<div class="table-responsive">
 						<table class="table mt-3">
 							<thead>

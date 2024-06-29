@@ -25,7 +25,7 @@
 				  </div>
 				</div>
     		</div>
-
+ 
        		<div class="col">
     			<div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
 				  <div class="card-header">Data Penilaian</div>
